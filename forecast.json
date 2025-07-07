@@ -1,0 +1,32 @@
+{
+    "forecast_location": "Toulouse(FR)",
+    "forecast_min_temp": 3.66,
+    "forecast_max_temp": 17.76,
+    "forecast_details": [
+        {
+            "date": "2024-11-22",
+            "temp": 6.72,
+            "measure_count": 2
+        },
+        {
+            "date": "2024-11-23",
+            "temp": 7.59,
+            "measure_count": 8
+        },
+        {
+            "date": "2024-11-24",
+            "temp": 12.91,
+            "measure_count": 8
+        },
+        {
+            "date": "2024-11-25",
+            "temp": 14.68,
+            "measure_count": 8
+        },
+        {
+            "date": "2024-11-26",
+            "temp": 12.29,
+            "measure_count": 8
+        }
+    ]
+}
